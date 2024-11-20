@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Refat Hasan",
+        "email": "rifathasancr71@gmail.com",
+        "password": "$2y$10$iRiQQcsljn3tqDTc2UUAb.z7JF6FT7DqZVr5OSgveKDUIwmuxVTii",
+        "phone": "1609455305",
+        "brand_category": "fashion",
+        "cv": "..\/uploads\/WT_LabTask3.pdf"
+    },
+    {
+        "name": "Refat",
+        "email": "rifathasaN@gmail.com",
+        "password": "$2y$10$DqiA8Yi9Bhgi9T5wSgB8Bea72uj3xity96thz95fz\/ApIiauAd4aS",
+        "phone": "1609455305",
+        "brand_category": "fashion",
+        "cv": "..\/uploads\/logo.pdf"
+    },
+    {
+        "name": "Refat",
+        "email": "rifathasaN@gmail.com",
+        "password": "$2y$10$j5\/USryAdMNZQThTKkT5yew5rbwg1Kub9NTVyURS4JunblBo2tvGy",
+        "phone": "1609455305",
+        "brand_category": "fashion",
+        "cv": "..\/uploads\/logo.pdf"
+    }
+]
