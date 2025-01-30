@@ -22,7 +22,7 @@ unset($_SESSION['success_message']);
     <div class="success-container">
         <h1>Success!</h1>
         <p><?php echo htmlspecialchars($successMessage); ?></p>
-        <a href="delivery.php">Go Back to Homepage</a>
+        <a href="login.php">LOG IN</a>
     </div>
 </body>
 </html>

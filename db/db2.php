@@ -32,6 +32,15 @@ class mydb {
         return $this->conn->query($sql);
     }
 
+    //login check
+    public function getUserByEmail1($email) {
+        $stmt = $this->conn->prepare("SELECT * FROM delivery_man WHERE email = ?");
+        $stmt->bind_param("s", $email);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        return $result->fetch_assoc();
+    }
+
     // Close the connection
     public function close() {
         $this->conn->close();
